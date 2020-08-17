@@ -1,0 +1,59 @@
+h1{
+    color:black
+
+}
+h2{
+    color:black;
+    text-align: center;
+}
+p{
+    color:rgb(255, 255, 255);
+    text-align:center;
+}
+/* *{
+    border:solid
+} */
+.header{
+    background-color:rgb(254,118,64);
+    display:flex;
+    justify-content:space-between;
+
+}
+.grid{
+    background-color:rgb(253,206,58);
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color:rgb(169,238,194);
+    display:flex;
+    justify-content: flex-end;
+}
+.siteDescription {
+    background-color: rgb(254,162,59);
+     display:flex;
+     justify-content: center;
+    
+}
+.siteDescription1 {
+    background-color: rgb(254,162,59);
+     display:flex;
+     justify-content: center;
+    
+}
+.siteDescription p{
+    text-align: center;
+    color: black;
+}
+.siteDescription h2{
+    text-align: center;
+}
+body{
+    background-color:rgb(236,237,169);
+}
+.menu1{
+    display:flex;
+    justify-content:flex-end;
+    
+}
